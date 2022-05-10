@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+body{
+
+  background-color: #282c34;
+  color: white;
+
+}
+
 .lista{
 
   display: inline-table;
@@ -17,4 +24,12 @@
   list-style: none;
   font-size: calc(10px + 2vmin);
   color: rgb(240, 207, 76);
+}
+
+button{
+
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: rgb(240, 207, 76);
+
 }
